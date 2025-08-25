@@ -1,5 +1,6 @@
 # AWS-EC2-Launch-Instance
 Read on [Medium Link] (https://medium.com/@ejadaji7/aws-ec2-launch-instance-cf6e709a58bc?source=user_profile_page---------1-------------a93f2578e95f----------------------)
+
 In this project, i launched an EC2 instance using the AWS Management console. Using these key components .
 
 An image — a template which has the software that ran on the instance.
@@ -11,7 +12,8 @@ These are the tasks that we deployed to launch the EC2 instance .
 
 An Amazon EC2 console was opened.
 And selected an AWS region near me , North Virginia .
-Press enter or click to view image in full size
+<img width="1400" height="575" alt="image" src="https://github.com/user-attachments/assets/a295de00-3a60-462d-a0e1-2d7f7e0d1703" />
+
 
 3. From the launch panel on the EC2 dashboard I choose launch instance .
 
